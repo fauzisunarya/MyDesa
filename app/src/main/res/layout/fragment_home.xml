@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D5F015">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="0dp"
+        android:layout_height="250dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_background_top" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_marginTop="68dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/icon_atas" />
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_marginTop="20dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_marginStart="22dp"
+        android:layout_marginEnd="22dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4">
+
+        <LinearLayout
+            android:id="@+id/lr_desaWisata"
+            android:layout_marginStart="40dp"
+            android:background="@drawable/shape_rectangle_rounded_10_yellow"
+            android:layout_width="131dp"
+            android:layout_height="131dp"
+            android:orientation="vertical"
+            android:weightSum="1">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_marginTop="10dp"
+                android:layout_width="130dp"
+                android:layout_height="90dp"
+                android:src="@drawable/desa"/>
+
+            <TextView
+                android:paddingLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Desa Wisata"
+                android:textSize="16sp"
+                android:fontFamily="@font/montserrat"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lr_lokasi"
+            android:layout_marginStart="30dp"
+            android:background="@drawable/shape_rectangle_rounded_10_yellow"
+            android:layout_width="131dp"
+            android:layout_height="131dp"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_marginTop="10dp"
+                android:layout_width="130dp"
+                android:layout_height="90dp"
+                android:src="@drawable/lokasi"/>
+
+            <TextView
+                android:paddingLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lokasi Desa"
+                android:textSize="16sp"
+                android:fontFamily="@font/montserrat"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="16dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_marginStart="22dp"
+        android:layout_marginEnd="22dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linear_layout">
+
+        <LinearLayout
+            android:id="@+id/lr_SeputarDesa"
+            android:layout_marginStart="40dp"
+            android:background="@drawable/shape_rectangle_rounded_10_yellow"
+            android:layout_width="131dp"
+            android:layout_height="131dp"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_marginTop="10dp"
+                android:layout_width="130dp"
+                android:layout_height="90dp"
+                android:src="@drawable/ic_live_help_black_24dp"/>
+
+            <TextView
+                android:paddingLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Seputar Desa"
+                android:textSize="16sp"
+                android:fontFamily="@font/montserrat"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lr_galeri"
+            android:layout_marginStart="30dp"
+            android:background="@drawable/shape_rectangle_rounded_10_yellow"
+            android:layout_width="131dp"
+            android:layout_height="131dp"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_marginTop="10dp"
+                android:layout_width="130dp"
+                android:layout_height="90dp"
+                android:src="@drawable/galeri"/>
+
+            <TextView
+                android:paddingLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Galeri"
+                android:textSize="16sp"
+                android:fontFamily="@font/montserrat"
+                />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

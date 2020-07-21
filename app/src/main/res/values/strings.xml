@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">MyDesa</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="village_name">Nama Desa</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+
+    <string-array name="data_name">
+        <item>Desa Wisata Tanjung</item>
+        <item>Desa Wisata Pentingsari</item>
+        <item>Desa Wisata Karang Tengah</item>
+        <item>Desa Wisata Nglinggo</item>
+        <item>Desa Wisata Manding</item>
+        <item>Desa Wisata Candran</item>
+        <item>Desa Wisata Kembang Arum</item>
+        <item>Desa Wisata Tembi</item>
+        <item>Desa Wisata Kasongan</item>
+        <item>Desa Wisata Banyusumurup</item>
+        <item>Desa Wisata Trumpon</item>
+        <item>Desa Wisata Krebet</item>
+        <item>Desa Wisata Kebon Agung</item>
+        <item>Desa Wisata Sambi</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Desa wisata Tanjung berlokasi kurang lebih 5 KM dari Monumen Jogja Kembali (Monjali) atau tepatnya berada di Desa Dono Harjo, Kecamatan Ngaglik, Kabupaten Sleman. Desa wisata Tanjung diresmikan pada tahun 2001, dan sejak saat itu banyak wisatawan lokal maupun mancanegara yang datang ke desa ini terutama pada musim libur sekolah. </item>
+        <item>Desa wisata yang satu ini masih di kabupaten Sleman tepatnya di lereng Gunung Merapi. Desa Wisata Pentingsari berada di Kelurahan Umbulharjo, Kecamatan Cangkringan. Saat Gunung Merapi sedang bergejolak, desa ini mungkin akan masuk dalam zona berbahaya. Namun, dibalik itu, desa ini memiliki suasana pedesaan yang benar-benar menyegarkan</item>
+        <item>Beralih ke Bantul. Ada sebuah desa wisata yang terkenal dengan jambu mete yakni Desa Wisata Karang Tengah. Desa wisata ini berada di dusun Mojolegi RT 03 Karang Tengah, Imogiri. Sekitar 2 km dari dari Makam Raja Imogiri</item>
+        <item>Di kabupaten Kulonprogo ada sebuah desa wisata yang berada di dataran tinggi. Nama desa tersebut adalah Desa Wisata Nglinggo. Desa ini terkenal dengan perkebunan tehnya yang menyajikan pemandangan hijau pada ketinggian sekitar 800 mdpl. Desa Wisata Nglinggo berada di Kelurahan Pagerharjo, Kecamatan Samigaluh. Lokasi desa wisata ini tidak terlalu jauh dari Puncak Suroloyo</item>
+        <item>Manding merupakan pusat kerajinan tangan yang terbuat dari bahan kulit. Di desa wisata ini kamu bisa mendapatkan cendera mata berbahan kulit untuk oleh-oleh. Mulai dari tas, sepatu, dompet hingga jaket kulit</item>
+        <item>Desa Wisata Candran merupakan sebuah desa wisata bernuansa alam pertanian. Di desa ini para wisatawan bisa ikut bertani secara tradisional. Sangat menyenangkan. Desa wisata ini bahkan terkenal sebagai kampung tani internasional. Banyak turis asing yang senang megunjungi desa wisata yang sebagian besar warganya merupakan petani dan peternak ini</item>
+        <item>Di Sleman, tepatnya desa Donokerto, kecamatan Turi ada sebuah desa wisata yang memiliki nuansa sangat asri. Meski terlihat sederhana, namu suasana di desa ini terlihat sangat rapi. Nama desa wisata ini adalah Desa Wisata Kembang Arum atau biasa disingkat dewikembar</item>
+        <item>Desa Wisata Tembi merupakan sebuah tempat yang sangat cocok untuk belajar budaya, khususnya budaya Jawa dengan cara yang lebih fun. Lokasi desa wisata ini berada di dusun Tembi Desa Timbulharjo, Kabupaten Bantul</item>
+        <item>Desa wisata yang satu ini mungkin sudah banyak yang tahu. Desa Kasongan yang berada di kabupaten Bantul terkenal dengan industri gerabahnya. Produksi gerabah Kasongan sudah terkenal sejak lama. Penggemar gerabah dari berbagai daerah datang ke Kasongan untuk berbelanja gerabah sebagai barang koleksi</item>
+        <item>Jogja sangat identik dengan budaya Jawa. Salah benda yang sangat identik dengan budaya Jawa adalah keris. Senjata ini merupakan senjata tradisional khas Jawa. Ada satu tempat di kabupaten Gunung Kidul yang terkenal sebagai sentra pembuatan aksesoris keris. Tempat tersebut adalah desa Banyusumurup. Desa ini berada di Imogiri, Bantul</item>
+        <item>Kamu suka buah salak? Jika iya, desa wisata yang satu ini tak boleh terlewatkan saat sedang berada di Jogja. Desa Wisata Trumpon merupakan sebuah desa wisata yang berada di dusun Trumpon, desa Merdikurejo, kecamatan Tempel, kabupaten Sleman. Desa ini terkenal dengan agrowisata salak pondoh. Tidak cuma itu, kamu juga bisa melihat pemandangan Gunung Merapi yang tampak begitu gagah melalui gardu pandang yang tersedia di sana</item>
+        <item>Yang kita tahu selama ini, batik sangat identik dengan fashion. Di Desa Wisata Krebet kita akan menemukan motif batik pada media yang tidak biasa. Bukan kemeja atau kebaya, media yang digunakan untuk melukis batik di sana adalah kayu</item>
+        <item>Untuk yang menyukai suasana persawahan, Desa Wisata Kebun Agung ini juga bisa menjadi pilihan menarik untuk dikunjungi. Di desa wisata ini kita bisa melakukan kegiatan seolah-olah kita adalah warga lokal yang berprofesi sebagai petani. Berbagai kegiatan seperti menanam padi, membajak sawah hingga memanennya bisa kita lakukan disini</item>
+        <item>Suasana pedesaan yang nyaman dan tenang juga akan kita dapatkan di Desa Wisata Sambi. Lokasi desa wisata ini berada tidak jauh dari kawasan wisata Kaliurang yang notabene berada di lereng Gunung Merapi sehingga suasana pegunungan akan sangat terasa di desa ini</item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://visitingjogja.com/wp-content/uploads/2017/12/tanjung.jpg</item>
+        <item>https://www.yukpiknik.com/wp-content/uploads/2015/10/desawisatapentingsari.jpg</item>
+        <item>https://www.yukpiknik.com/wp-content/uploads/2015/10/desa-wisata-karang-tengah.jpg</item>
+        <item>https://www.yukpiknik.com/wp-content/uploads/2015/10/nglinggo.jpg</item>
+        <item>https://www.yukpiknik.com/wp-content/uploads/2015/10/manding.jpg</item>
+        <item>https://www.yukpiknik.com/wp-content/uploads/2015/10/desa-wisata-candran.jpg</item>
+        <item>https://www.yukpiknik.com/wp-content/uploads/2015/10/desa-wisata-kembang-arum.jpg</item>
+        <item>https://www.yukpiknik.com/wp-content/uploads/2015/10/tembi.jpg</item>
+        <item>https://www.yukpiknik.com/wp-content/uploads/2015/10/sby.jpg</item>
+        <item>https://www.yukpiknik.com/wp-content/uploads/2015/10/banyusumurup.jpg</item>
+        <item>https://www.yukpiknik.com/wp-content/uploads/2015/10/trumpon2.jpg</item>
+        <item>https://www.yukpiknik.com/wp-content/uploads/2015/10/kerebet.jpg</item>
+        <item>https://www.yukpiknik.com/wp-content/uploads/2015/10/kebun-agung.jpg</item>
+        <item>https://www.yukpiknik.com/wp-content/uploads/2015/10/sambi.jpg</item>
+    </string-array>
+
+    <string-array name="data_name_profile">
+        <item>Mang Sarmud</item>
+        <item>Mang Darman</item>
+        <item>Mang sdfsdfd</item>
+        <item>Mang weqweqw</item>
+        <item>Mang rqwq</item>
+        <item>Mang sdfsdfds</item>
+        <item>Mang fsdf</item>
+        <item>Mang sdfsdf</item>
+        <item>Mang sdfsdf</item>
+        <item>Mang sdfsdf</item>
+        <item>Mang dfsdf</item>
+        <item>Mang wrwerewr</item>
+        <item>Mang werwer</item>
+        <item>Mang werwer</item>
+    </string-array>
+</resources>
